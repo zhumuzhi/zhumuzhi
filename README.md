@@ -1,3 +1,3 @@
 # Debiao-Fan
 Debiao Fan
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhumuzhi)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhumuzhi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
